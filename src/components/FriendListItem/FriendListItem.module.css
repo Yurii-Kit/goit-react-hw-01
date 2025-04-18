@@ -1,0 +1,16 @@
+img {
+  width: 100%;
+  height: auto;
+}
+.text {
+  margin: 5px 0;
+  font-size: 14px;
+  font-weight: bold;
+  color: #333;
+}
+.online {
+  color: green;
+}
+.offline {
+  color: red;
+}
